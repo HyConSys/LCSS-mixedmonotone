@@ -3,7 +3,7 @@
 This repository contains the code for the paper:
 
 **"Neural Barrier Certificates for Monotone Systems"**,  
-by Amirreza Alavi, Alireza Nadali, Majid Zamani, Saber Jafarpour
+by Amirreza Alavi, Alireza Nadali, Majid Zamani, Saber Jafarpour\\
 IEEE Control Systems Letters (L-CSS) / IEEE Conference on Decision and Control (CDC)
 
 ✉️ **Contact:** seyedamirreza.alavi@colorado.edu
